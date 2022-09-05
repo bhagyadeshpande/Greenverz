@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  background-color: rgba(43, 160, 21, 0.8) !important;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+#mainDiv{
+  text-align: center;
+  margin: 50px;
+  color: beige !important;
+}
+#firstPara{
+  margin: 30px;
+  font-size: 22px;
+}
+#secondPara{
+  font-size: 20px;
+}
+#loginPara{
+  color: gold;
+  margin: 35px;
+  font-size: 18px;
+}
+#registerPara{
+  color: gold;
+  font-size: 18px;
+  margin: -15px;
+}
+#loginSpan{
+  color: cornsilk !important;
+  font-style: italic;
+}
+#registerSpan{
+  color: cornsilk !important;
+  font-style: italic;
+}
+.login-header {
+  margin: 10px;
+  background: #28d;
+  padding: 18px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+.loginDiv{
+  margin: 50px;
+}
+.form-column {
+  background: #ebebeb;
+  padding: 12px;
+}
+.custom-file{
+  margin-top: 25px !important;
+  width: -webkit-fill-available !important;
+}
+#treesDiv{
+  text-align: center;
+  margin: 50px;
+  color: beige !important;
+}
+.textArea{
+  width: -webkit-fill-available;
+  margin-top: 20px;
+}     
+#saveBtn{
+  margin-top: 20px;
+}
+.treePara{
+  font-size: 18px;
+}
